@@ -15,3 +15,6 @@ Should be able to access both websites
     [Tags]              Test 1
     FrontOfficeApp.Go to Landing Page
     BackOfficeApp.Go to Landing Page
+
+Here is a 3rd test
+   Log      Hello
